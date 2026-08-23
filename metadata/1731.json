@@ -1,0 +1,15 @@
+{
+  "name": "project xp #1731",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/1731.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sherwood Canopy"
+    },
+    {
+      "trait_type": "base",
+      "value": "Kohl-Eyed Thief"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "project xp #118",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/118.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Torchlit Camp"
+    },
+    {
+      "trait_type": "base",
+      "value": "Weathered Ranger"
+    }
+  ]
+}

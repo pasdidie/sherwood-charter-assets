@@ -1,0 +1,15 @@
+{
+  "name": "project xp #769",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/769.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Misty Riverbank"
+    },
+    {
+      "trait_type": "base",
+      "value": "Weathered Ranger"
+    }
+  ]
+}

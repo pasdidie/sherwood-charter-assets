@@ -1,0 +1,15 @@
+{
+  "name": "project xp #685",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/685.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Misty Riverbank"
+    },
+    {
+      "trait_type": "base",
+      "value": "Kohl-Eyed Thief"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "project xp #356",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/356.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wanted Poster Parchment"
+    },
+    {
+      "trait_type": "base",
+      "value": "Golden Outlaw of Legend"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "project xp #1909",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/1909.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nottingham Rooftops at Dusk"
+    },
+    {
+      "trait_type": "base",
+      "value": "Weathered Ranger"
+    }
+  ]
+}

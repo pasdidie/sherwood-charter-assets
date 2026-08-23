@@ -1,0 +1,15 @@
+{
+  "name": "project xp #1969",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/1969.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Royal Banner"
+    },
+    {
+      "trait_type": "base",
+      "value": "Umber Tracker"
+    }
+  ]
+}

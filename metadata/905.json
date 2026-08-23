@@ -1,0 +1,15 @@
+{
+  "name": "project xp #905",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/905.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Torchlit Camp"
+    },
+    {
+      "trait_type": "base",
+      "value": "Youthful Squire"
+    }
+  ]
+}

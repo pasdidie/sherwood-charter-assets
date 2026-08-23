@@ -1,0 +1,15 @@
+{
+  "name": "project xp #1533",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/1533.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Golden Treasury Vault"
+    },
+    {
+      "trait_type": "base",
+      "value": "Pale Moonlit Rogue"
+    }
+  ]
+}

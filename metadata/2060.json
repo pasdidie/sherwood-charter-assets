@@ -1,0 +1,15 @@
+{
+  "name": "project xp #2060",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/2060.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Golden Treasury Vault"
+    },
+    {
+      "trait_type": "base",
+      "value": "Weathered Ranger"
+    }
+  ]
+}

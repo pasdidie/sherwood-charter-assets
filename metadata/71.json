@@ -1,0 +1,15 @@
+{
+  "name": "project xp #71",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/71.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Torchlit Camp"
+    },
+    {
+      "trait_type": "base",
+      "value": "Gold-Tooth Chief"
+    }
+  ]
+}

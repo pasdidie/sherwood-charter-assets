@@ -1,0 +1,15 @@
+{
+  "name": "project xp #268",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/268.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Misty Riverbank"
+    },
+    {
+      "trait_type": "base",
+      "value": "Gold-Tooth Chief"
+    }
+  ]
+}

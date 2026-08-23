@@ -1,0 +1,15 @@
+{
+  "name": "project xp #350",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/350.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nottingham Rooftops at Dusk"
+    },
+    {
+      "trait_type": "base",
+      "value": "Umber Tracker"
+    }
+  ]
+}

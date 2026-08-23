@@ -1,0 +1,15 @@
+{
+  "name": "project xp #809",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/809.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Golden Treasury Vault"
+    },
+    {
+      "trait_type": "base",
+      "value": "Youthful Squire"
+    }
+  ]
+}

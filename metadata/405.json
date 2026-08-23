@@ -1,0 +1,15 @@
+{
+  "name": "project xp #405",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/405.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sherwood Canopy"
+    },
+    {
+      "trait_type": "base",
+      "value": "Whistling Drifter"
+    }
+  ]
+}

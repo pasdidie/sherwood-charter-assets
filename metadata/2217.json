@@ -1,0 +1,15 @@
+{
+  "name": "project xp #2217",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/2217.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sherwood Canopy"
+    },
+    {
+      "trait_type": "base",
+      "value": "One-Eyed Veteran"
+    }
+  ]
+}

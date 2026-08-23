@@ -1,0 +1,15 @@
+{
+  "name": "project xp #1275",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/1275.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sheriff's Dungeon Wall"
+    },
+    {
+      "trait_type": "base",
+      "value": "Umber Tracker"
+    }
+  ]
+}

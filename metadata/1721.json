@@ -1,0 +1,15 @@
+{
+  "name": "project xp #1721",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/1721.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Misty Riverbank"
+    },
+    {
+      "trait_type": "base",
+      "value": "Sunburnt Wanderer"
+    }
+  ]
+}

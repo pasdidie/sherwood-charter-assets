@@ -1,0 +1,15 @@
+{
+  "name": "project xp #1999",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/1999.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nottingham Rooftops at Dusk"
+    },
+    {
+      "trait_type": "base",
+      "value": "Kohl-Eyed Thief"
+    }
+  ]
+}

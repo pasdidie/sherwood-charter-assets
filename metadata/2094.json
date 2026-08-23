@@ -1,0 +1,15 @@
+{
+  "name": "project xp #2094",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/2094.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Misty Riverbank"
+    },
+    {
+      "trait_type": "base",
+      "value": "Pale Moonlit Rogue"
+    }
+  ]
+}

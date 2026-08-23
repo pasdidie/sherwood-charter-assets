@@ -1,0 +1,15 @@
+{
+  "name": "project xp #120",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/120.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Royal Banner"
+    },
+    {
+      "trait_type": "base",
+      "value": "Weathered Ranger"
+    }
+  ]
+}

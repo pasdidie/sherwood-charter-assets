@@ -1,0 +1,15 @@
+{
+  "name": "project xp #337",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/337.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nottingham Rooftops at Dusk"
+    },
+    {
+      "trait_type": "base",
+      "value": "Pale Moonlit Rogue"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "project xp #256",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/256.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Royal Banner"
+    },
+    {
+      "trait_type": "base",
+      "value": "Kohl-Eyed Thief"
+    }
+  ]
+}

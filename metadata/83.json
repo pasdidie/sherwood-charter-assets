@@ -1,0 +1,15 @@
+{
+  "name": "project xp #83",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/images/83.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wanted Poster Parchment"
+    },
+    {
+      "trait_type": "base",
+      "value": "Sunburnt Wanderer"
+    }
+  ]
+}
