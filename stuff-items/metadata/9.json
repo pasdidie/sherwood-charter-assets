@@ -1,0 +1,15 @@
+{
+  "name": "Nobleman's Cloak",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/stuff-items/images/9.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Pool",
+      "value": "Upgrade"
+    }
+  ]
+}

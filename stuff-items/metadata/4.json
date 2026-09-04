@@ -1,0 +1,15 @@
+{
+  "name": "Poacher's Snare",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/stuff-items/images/4.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Pool",
+      "value": "Starter"
+    }
+  ]
+}

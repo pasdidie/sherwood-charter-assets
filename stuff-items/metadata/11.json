@@ -1,0 +1,15 @@
+{
+  "name": "Sheriff's Signet Ring",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/stuff-items/images/11.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Pool",
+      "value": "Upgrade"
+    }
+  ]
+}

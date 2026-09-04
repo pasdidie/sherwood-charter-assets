@@ -1,0 +1,15 @@
+{
+  "name": "Travel-Worn Cloak",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/stuff-items/images/3.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Pool",
+      "value": "Starter"
+    }
+  ]
+}

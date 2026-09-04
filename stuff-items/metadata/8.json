@@ -1,0 +1,15 @@
+{
+  "name": "Longbow of the Greenwood",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/pasdidie/sherwood-charter-assets/main/stuff-items/images/8.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Pool",
+      "value": "Upgrade"
+    }
+  ]
+}
